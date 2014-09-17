@@ -21,6 +21,7 @@
 		17E8BE7619C8BE7C006B6D5A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17E8BE5819C8BE7C006B6D5A /* UIKit.framework */; };
 		17E8BE7E19C8BE7C006B6D5A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 17E8BE7C19C8BE7C006B6D5A /* InfoPlist.strings */; };
 		17E8BE8019C8BE7C006B6D5A /* ButtonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 17E8BE7F19C8BE7C006B6D5A /* ButtonTests.m */; };
+		17E8BE8A19C8CE81006B6D5A /* krasnaya_knopka_red_button-300x225.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 17E8BE8919C8CE81006B6D5A /* krasnaya_knopka_red_button-300x225.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		17E8BE7B19C8BE7C006B6D5A /* ButtonTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ButtonTests-Info.plist"; sourceTree = "<group>"; };
 		17E8BE7D19C8BE7C006B6D5A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		17E8BE7F19C8BE7C006B6D5A /* ButtonTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ButtonTests.m; sourceTree = "<group>"; };
+		17E8BE8919C8CE81006B6D5A /* krasnaya_knopka_red_button-300x225.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "krasnaya_knopka_red_button-300x225.jpg"; path = "Images.xcassets/LaunchImage.launchimage/krasnaya_knopka_red_button-300x225.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				17E8BE6919C8BE7C006B6D5A /* BTViewController.h */,
 				17E8BE6A19C8BE7C006B6D5A /* BTViewController.m */,
 				17E8BE6C19C8BE7C006B6D5A /* Images.xcassets */,
+				17E8BE8919C8CE81006B6D5A /* krasnaya_knopka_red_button-300x225.jpg */,
 				17E8BE5B19C8BE7C006B6D5A /* Supporting Files */,
 			);
 			path = Button;
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17E8BE8A19C8CE81006B6D5A /* krasnaya_knopka_red_button-300x225.jpg in Resources */,
 				17E8BE6D19C8BE7C006B6D5A /* Images.xcassets in Resources */,
 				17E8BE5F19C8BE7C006B6D5A /* InfoPlist.strings in Resources */,
 				17E8BE6819C8BE7C006B6D5A /* Main.storyboard in Resources */,

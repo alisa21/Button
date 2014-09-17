@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface BTViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UILabel *addHelloAction;
 
 @end

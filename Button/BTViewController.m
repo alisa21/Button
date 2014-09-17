@@ -7,8 +7,11 @@
 //
 
 #import "BTViewController.h"
+#import <Foundation/Foundation.h>
 
 @interface BTViewController ()
+
+- (IBAction)pressButtonAction:(id)sender;
 
 @end
 
@@ -26,4 +29,9 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)pressButtonAction:(id)sender {
+    
+    NSString *text = [NSString.Format[@"Hello,World!"]];
+    self.addHelloAction.text = text;
+}
 @end
